@@ -1,14 +1,13 @@
 <!--
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-title      Nord ConEmu                                    +
-project    nord-conemu                                    +
-version    0.1.0                                          +
-repository https://github.com/arcticicestudio/nord-conemu +
-author     Arctic Ice Studio                              +
-email      development@arcticicestudio.com                +
-copyright  Copyright (C) 2017                             +
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+Copyright (c) 2017-present Sven Greb <code@svengreb.de>
+
+Project:    Nord ConEmu
+Version:    0.1.0
+Repository: https://github.com/arcticicestudio/nord-conemu
+License:    MIT
 -->
+
 <key name="Palette1" modified="2017-10-14 09:05:45" build="170910">
   <value name="Name" type="string" data="Nord"/>
   <value name="ExtendColors" type="hex" data="00"/>
