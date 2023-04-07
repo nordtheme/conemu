@@ -1,51 +1,45 @@
 <!--
-Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
-Copyright (c) 2017-present Sven Greb <code@svengreb.de>
-
-Project:    Nord ConEmu
-Version:    0.1.0
-Repository: https://github.com/arcticicestudio/nord-conemu
-License:    MIT
+Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+This source code is licensed under the MIT license found in the license file.
 -->
-
-<key name="Palette1" modified="2017-10-14 09:05:45" build="170910">
-  <value name="Name" type="string" data="Nord"/>
-  <value name="ExtendColors" type="hex" data="00"/>
-  <value name="ExtendColorIdx" type="hex" data="0e"/>
-  <value name="TextColorIdx" type="hex" data="10"/>
-  <value name="BackColorIdx" type="hex" data="10"/>
-  <value name="PopTextColorIdx" type="hex" data="10"/>
-  <value name="PopBackColorIdx" type="hex" data="10"/>
-  <value name="ColorTable00" type="dword" data="0040342e"/>
-  <value name="ColorTable01" type="dword" data="00926c47"/>
-  <value name="ColorTable02" type="dword" data="00518e6c"/>
-  <value name="ColorTable03" type="dword" data="008c8d54"/>
-  <value name="ColorTable04" type="dword" data="006a61bf"/>
-  <value name="ColorTable05" type="dword" data="00ad8eb4"/>
-  <value name="ColorTable06" type="dword" data="008bcbeb"/>
-  <value name="ColorTable07" type="dword" data="00e9ded8"/>
-  <value name="ColorTable08" type="dword" data="006a564c"/>
-  <value name="ColorTable09" type="dword" data="00c1a181"/>
-  <value name="ColorTable10" type="dword" data="008cbea3"/>
-  <value name="ColorTable11" type="dword" data="00bbbc8f"/>
-  <value name="ColorTable12" type="dword" data="003c3483"/>
-  <value name="ColorTable13" type="dword" data="007b5683"/>
-  <value name="ColorTable14" type="dword" data="0031a4db"/>
-  <value name="ColorTable15" type="dword" data="00f4efec"/>
-  <value name="ColorTable16" type="dword" data="00000000"/>
-  <value name="ColorTable17" type="dword" data="00800000"/>
-  <value name="ColorTable18" type="dword" data="00008000"/>
-  <value name="ColorTable19" type="dword" data="00808000"/>
-  <value name="ColorTable20" type="dword" data="00000080"/>
-  <value name="ColorTable21" type="dword" data="00800080"/>
-  <value name="ColorTable22" type="dword" data="00008080"/>
-  <value name="ColorTable23" type="dword" data="00c0c0c0"/>
-  <value name="ColorTable24" type="dword" data="00808080"/>
-  <value name="ColorTable25" type="dword" data="00ff0000"/>
-  <value name="ColorTable26" type="dword" data="0000ff00"/>
-  <value name="ColorTable27" type="dword" data="00ffff00"/>
-  <value name="ColorTable28" type="dword" data="000000ff"/>
-  <value name="ColorTable29" type="dword" data="00ff00ff"/>
-  <value name="ColorTable30" type="dword" data="0000ffff"/>
-  <value name="ColorTable31" type="dword" data="00ffffff"/>
+<key name="Palette1" modified="2023-04-01 13:29:40" build="170910">
+  <value name="Name" type="string" data="Nord" />
+  <value name="ExtendColors" type="hex" data="00" />
+  <value name="ExtendColorIdx" type="hex" data="0e" />
+  <value name="TextColorIdx" type="hex" data="10" />
+  <value name="BackColorIdx" type="hex" data="10" />
+  <value name="PopTextColorIdx" type="hex" data="10" />
+  <value name="PopBackColorIdx" type="hex" data="10" />
+  <value name="ColorTable00" type="dword" data="0040342e" />
+  <value name="ColorTable01" type="dword" data="00926c47" />
+  <value name="ColorTable02" type="dword" data="00518e6c" />
+  <value name="ColorTable03" type="dword" data="008c8d54" />
+  <value name="ColorTable04" type="dword" data="006a61bf" />
+  <value name="ColorTable05" type="dword" data="00ad8eb4" />
+  <value name="ColorTable06" type="dword" data="008bcbeb" />
+  <value name="ColorTable07" type="dword" data="00e9ded8" />
+  <value name="ColorTable08" type="dword" data="006a564c" />
+  <value name="ColorTable09" type="dword" data="00c1a181" />
+  <value name="ColorTable10" type="dword" data="008cbea3" />
+  <value name="ColorTable11" type="dword" data="00bbbc8f" />
+  <value name="ColorTable12" type="dword" data="003c3483" />
+  <value name="ColorTable13" type="dword" data="007b5683" />
+  <value name="ColorTable14" type="dword" data="0031a4db" />
+  <value name="ColorTable15" type="dword" data="00f4efec" />
+  <value name="ColorTable16" type="dword" data="00000000" />
+  <value name="ColorTable17" type="dword" data="00800000" />
+  <value name="ColorTable18" type="dword" data="00008000" />
+  <value name="ColorTable19" type="dword" data="00808000" />
+  <value name="ColorTable20" type="dword" data="00000080" />
+  <value name="ColorTable21" type="dword" data="00800080" />
+  <value name="ColorTable22" type="dword" data="00008080" />
+  <value name="ColorTable23" type="dword" data="00c0c0c0" />
+  <value name="ColorTable24" type="dword" data="00808080" />
+  <value name="ColorTable25" type="dword" data="00ff0000" />
+  <value name="ColorTable26" type="dword" data="0000ff00" />
+  <value name="ColorTable27" type="dword" data="00ffff00" />
+  <value name="ColorTable28" type="dword" data="000000ff" />
+  <value name="ColorTable29" type="dword" data="00ff00ff" />
+  <value name="ColorTable30" type="dword" data="0000ffff" />
+  <value name="ColorTable31" type="dword" data="00ffffff" />
 </key>
